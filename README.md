@@ -1,15 +1,13 @@
 # 动手学深度学习一天训练营
 
-**Work in Progress**
+最后更新：|today|
 
 ## 实用信息
 
-| | |
-|---|---|
-| 讲师 | [李沐](https://github.com/mli)，[何通]() |
-| 时间 | 9月5号 |
-| 地点 | 北京长城饭店 |
-| 注册 |  |
+- 讲师： [李沐](https://github.com/mli)，[何通]( https://github.com/hetong007)
+- 时间： 9月5号全天
+- 地点：[北京长城饭店（朝阳区 东三环北路10号）](https://j.map.baidu.com/39/Smg)
+- 注册：[深度学习实训营注册](https://aiprocon.csdn.net/m/topic/ai_procon/ticket)
 
 ## 概况
 
@@ -21,33 +19,25 @@
 4. 计算机视觉
 5. 训练你的目标检测模型
 
-
 ## 大纲
-
-- This course relies heavily on the
-  [Dive into Deep Learning](http://numpy.d2l.ai) book. There's a lot more
-  detail in the book (notebooks, examples, math, applications).
-- The crash course will get you started. For more information also see [other
-  courses and tutorials](http://courses.d2l.ai) based on the book.
-- All notebooks below are availabe at [d2l-ai/1day-notebooks](https://github.com/d2l-ai/1day-notebooks), which contains instructions how to setup the running environments.
 
 
 | Time | Topics |
 | --- | --- |
-| 8:00---9:00 | Setup clinic for laptops |
-| 9:00---10:30 | [Part 1: Deep learning basic](#part-1-deep-learning-basic) |
-| 10:30---11:00 | Coffee break |
-| 11:00---12:30 | [Part 2: Convolutional neural networks](#part-2-convolutional-neural-networks) |
-| 12:30---2:00 | Lunch break |
-| 2:00---3:30 | [Part 3: Performance](#part-3-performance) |
-| 3:30---4:00 | Coffee break |
-| 4:00---5:30 | [Part 4: Recurrent neural networks](#part-4-recurrent-neural-networks) |
+| 9:00---10:40 | [第一部分：深度学习基础](#id7) |
+| 10:40---11:00 | Coffee break |
+| 11:00---12:40 | [第二部分：卷积神经网络](#id8) |
+| 12:40---2:00 | Lunch break |
+| 2:00---3:40 | [第三部分：性能](#id9) |
+| 3:40---4:00 | Coffee break |
+| 4:00---5:40 | [第四部分：计算机视觉](#id10) |
+| 7:00---12:00 | [第五部分：构建你的物体检测器](#id11) |
 
-### Part 1: Deep Learning Basic
+### 第一部分：深度学习基础
 
-**Slides**: [[keynote]](slides/Part-1.key), [[pdf]](slides/Part-1.pdf)
+**幻灯片**: [[keynote]](slides/Part-1.key), [[pdf]](slides/Part-1.pdf)
 
-**Notebooks**:
+**记事本**:
 
 1. Data Manipulation with Ndarray  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/1-ndarray.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/1-ndarray.ipynb#/)
 1. Automatic Differentiation  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/2-autograd.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/2-autograd.ipynb#/)
@@ -59,11 +49,11 @@
 1. Implementation of Multilayer Perceptron from Scratch  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/8-mlp-scratch.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/8-mlp-scratch.ipynb#/)
 1. Concise Implementation of Multilayer Perceptron  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/9-mlp-gluon.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/9-mlp-gluon.ipynb#/)
 
-### Part 2: Convolutional neural networks
+### 第二部分：卷积神经网络
 
-**Slides**: [[keynote]](slides/Part-2.key), [[pdf]](slides/Part-2.pdf)
+**幻灯片**: [[keynote]](slides/Part-2.key), [[pdf]](slides/Part-2.pdf)
 
-**Notebooks**:
+**记事本**:
 
 1. GPUs                                          [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/1-use-gpu.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/1-use-gpu.ipynb#/)
 1. Convolutions                                  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/2-conv-layer.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/2-conv-layer.ipynb#/)
@@ -74,13 +64,40 @@
 1. Inception Networks (GoogLeNet)                [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/7-googlenet.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/7-googlenet.ipynb#/)
 1. Residual Networks (ResNet)                    [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/8-resnet.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/8-resnet.ipynb#/)
 
-### Part 3: Performance
+### 第三部分：性能
 
-**Slides**: [[keynote]](slides/Part-3.key), [[pdf]](slides/Part-3.pdf)
+**幻灯片**: [[keynote]](slides/Part-3.key), [[pdf]](slides/Part-3.pdf)
 
-**Notebooks**:
+**记事本**:
 
 1. A Hybrid of Imperative and Symbolic Programming    [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-3/1-hybridize.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-3/1-hybridize.ipynb#/)
 1. Multi-GPU Computation Implementation from Scratch  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-3/2-multiple-gpus.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-3/2-multiple-gpus.ipynb#/)
 1. Concise Implementation of Multi-GPU Computation    [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-3/3-multiple-gpus-gluon.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-3/3-multiple-gpus-gluon.ipynb#/)
 1. Fine Tuning                                        [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-3/4-fine-tuning.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-3/4-fine-tuning.ipynb#/)
+
+### 第四部分：计算机视觉
+
+**幻灯片：**
+
+**记事本：**
+
+### 第五部分：构建你的物体检测器
+
+在这一部分里，我们要求大家组成3到5人一组的团队，然后在规定时间内训练出一个物体检测器，最后分享每个组的心得。我们将奖励最优秀的团队签名版精装书。
+
+这个部分将跟大多物体检测比赛不一样。通常它们提供数据，大家一起比拼模型精度。在这里，我们只提供测试数据集。我们要求你现场采集数据来训练你的检测器。我们将提供用于识别的物体供大家拍摄，但你需要处理现场背景、光照、角度、甚至是物体细节跟测试集不一致的情况。例如下面是我们拍摄测试集的场景之一：
+
+![测试集拍摄场景之一](./img/test_env.jpeg)
+:width:`400px`
+
+这个项目里我们将体验将机器学习模型部署到实际场景中遇到的两大困难：
+
+1. 如何采集并标注数据
+2. 如何处理上线后用户数据跟训练数据不一致，这个称之为covariate shift。
+
+为此，我们建议你：
+
+1. 提前认识人来一起组队
+2. 带上你的电脑。我们将提供云上的GPU实例，但你需要用你的电脑连上去
+3. 带上你的手机，或者是照相机，确保能方便导入照片到你电脑
+
