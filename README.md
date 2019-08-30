@@ -39,15 +39,15 @@
 
 **记事本**:
 
-1. Data Manipulation with Ndarray  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/1-ndarray.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/1-ndarray.ipynb#/)
-1. Automatic Differentiation  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/2-autograd.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/2-autograd.ipynb#/)
-1. Linear Regression Implementation from Scratch  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/3-linear-regression-scratch.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/3-linear-regression-scratch.ipynb#/)
-1. Concise Implementation of Linear Regression  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/4-linear-regression-gluon.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/4-linear-regression-gluon.ipynb#/)
-1. Image Classification Data (Fashion-MNIST)  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/5-fashion-mnist.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/5-fashion-mnist.ipynb#/)
-1. Implementation of Softmax Regression from Scratch  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/6-softmax-regression-scratch.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/6-softmax-regression-scratch.ipynb#/)
-1. Concise Implementation of Softmax Regression  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/7-softmax-regression-gluon.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/7-softmax-regression-gluon.ipynb#/)
-1. Implementation of Multilayer Perceptron from Scratch  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/8-mlp-scratch.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/8-mlp-scratch.ipynb#/)
-1. Concise Implementation of Multilayer Perceptron  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-1/9-mlp-gluon.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-1/9-mlp-gluon.ipynb#/)
+1. 使用 NDArray 进行数据交互  [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/1-ndarray.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/1-ndarray.ipynb#/)
+1. 自动求导  [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/2-autograd.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/2-autograd.ipynb#/)
+1.  从 0 开始的线性回归 [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/3-linear-regression-scratch.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/3-linear-regression-scratch.ipynb#/)
+1. 线性回归的简洁实现  [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/4-linear-regression-gluon.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/4-linear-regression-gluon.ipynb#/)
+1.  图片分类数据 (Fashion-MNIST) [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/5-fashion-mnist.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/5-fashion-mnist.ipynb#/)
+1.  Softmax 回归的从零开始实现 [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/6-softmax-regression-scratch.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/6-softmax-regression-scratch.ipynb#/)
+1.  Softmax 回归的简洁实现  [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/7-softmax-regression-gluon.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/7-softmax-regression-gluon.ipynb#/)
+1.  多层感知机的从零开始实现 [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/8-mlp-scratch.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/8-mlp-scratch.ipynb#/)
+1.  多层感知机的简洁实现 [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/9-mlp-gluon.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-1/9-mlp-gluon.ipynb#/)
 
 ### 第二部分：卷积神经网络
 
@@ -55,14 +55,14 @@
 
 **记事本**:
 
-1. GPUs                                          [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/1-use-gpu.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/1-use-gpu.ipynb#/)
-1. Convolutions                                  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/2-conv-layer.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/2-conv-layer.ipynb#/)
-1. Pooling                                       [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/3-pooling.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/3-pooling.ipynb#/)
-1. Convolutional Neural Networks (LeNet)         [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/4-lenet.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/4-lenet.ipynb#/)
-1. Deep Convolutional Neural Networks (AlexNet)  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/5-alexnet.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/5-alexnet.ipynb#/)
-1. Networks Using Blocks (VGG)                   [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/6-vgg.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/6-vgg.ipynb#/)
-1. Inception Networks (GoogLeNet)                [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/7-googlenet.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/7-googlenet.ipynb#/)
-1. Residual Networks (ResNet)                    [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-2/8-resnet.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-2/8-resnet.ipynb#/)
+1. GPUs                                          [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-2/1-use-gpu.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-2/1-use-gpu.ipynb#/)
+1.  卷积                                 [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-2/2-conv-layer.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-2/2-conv-layer.ipynb#/)
+1.  池化层                                      [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-2/3-pooling.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-2/3-pooling.ipynb#/)
+1.  卷积神经网络 (LeNet)         [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-2/4-lenet.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-2/4-lenet.ipynb#/)
+1.  深度卷积神经网络 (AlexNet)  [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-2/5-alexnet.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-2/5-alexnet.ipynb#/)
+1.  使用重复元素的网络 (VGG)                   [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-2/6-vgg.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-2/6-vgg.ipynb#/)
+1.  含并行连结的网络（(GoogLeNet)                [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-2/7-googlenet.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-2/7-googlenet.ipynb#/)
+1.  残差网络（(ResNet)                    [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-2/8-resnet.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-2/8-resnet.ipynb#/)
 
 ### 第三部分：性能
 
@@ -70,16 +70,16 @@
 
 **记事本**:
 
-1. A Hybrid of Imperative and Symbolic Programming    [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-3/1-hybridize.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-3/1-hybridize.ipynb#/)
-1. Multi-GPU Computation Implementation from Scratch  [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-3/2-multiple-gpus.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-3/2-multiple-gpus.ipynb#/)
-1. Concise Implementation of Multi-GPU Computation    [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-3/3-multiple-gpus-gluon.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-3/3-multiple-gpus-gluon.ipynb#/)
-1. Fine Tuning                                        [[ipynb]](https://github.com/mli/d2l-1day-notebooks/blob/master/notebooks-3/4-fine-tuning.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks/blob/master/notebooks-3/4-fine-tuning.ipynb#/)
+1. 命令式和符号式混合编程    [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-3/1-hybridize.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-3/1-hybridize.ipynb#/)
+1. 多 GPU 训练  [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-3/2-multiple-gpus.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-3/2-multiple-gpus.ipynb#/)
 
 ### 第四部分：计算机视觉
 
 **幻灯片：**
 
 **记事本：**
+
+1. 微调                                        [[ipynb]](https://github.com/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-3/4-fine-tuning.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-noteblooks-zh/blob/master/notebooks-3/4-fine-tuning.ipynb#/)
 
 ### 第五部分：构建你的物体检测器
 
@@ -100,4 +100,3 @@
 1. 提前认识人来一起组队
 2. 带上你的电脑。我们将提供云上的GPU实例，但你需要用你的电脑连上去
 3. 带上你的手机，或者是照相机，确保能方便导入照片到你电脑
-
