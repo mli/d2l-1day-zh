@@ -5,6 +5,7 @@
 ## 实用信息
 
 - 讲师： [李沐](https://github.com/mli)，[何通]( https://github.com/hetong007)
+- 助教：[马超](https://github.com/aksnzhy)
 - 时间： 9月5号全天
 - 地点：[北京长城饭店（朝阳区 东三环北路10号）](https://j.map.baidu.com/39/Smg)
 - 注册：[深度学习实训营注册](https://aiprocon.csdn.net/m/topic/ai_procon/ticket)
