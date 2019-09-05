@@ -82,6 +82,7 @@
 **记事本：**
 
 1. ​                            [[ipynb]](https://github.com/mli/d2l-1day-notebooks-zh/blob/master/notebooks-4/1-fine-tuning.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks-zh/blob/master/notebooks-4/1-fine-tuning.ipynb#/) 微调
+2. ​                            [[ipynb]](https://github.com/mli/d2l-1day-notebooks-zh/blob/master/notebooks-4/2-bboxes-and-anchor-boxes.ipynb)  [[slides]](https://nbviewer.jupyter.org/format/slides/github/mli/d2l-1day-notebooks-zh/blob/master/notebooks-4/2-bboxes-and-anchor-boxes.ipynb#/) 边界框与锚框
 
 ### 第五部分：构建你的物体检测器
 
